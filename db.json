@@ -1,0 +1,72 @@
+{
+  "songs": [
+    {
+      "title": "how do i make you love me",
+      "artist": "Bukayo saka",
+      "avatar": {
+        "url": "http://res.cloudinary.com/dqqtrkjtr/image/upload/v1693219440/c3mqrtahxd3ffpafhtvs.png",
+        "original_filename": "Saka",
+        "format": "png"
+      },
+      "audio": {
+        "url": "http://res.cloudinary.com/dqqtrkjtr/video/upload/v1693219456/glkqfs4ramakoaax5rvl.mp3",
+        "original_filename": "04. Paul (Skit)",
+        "length": 35.294625,
+        "format": "mp3",
+        "upload_time": "2023-08-28T10:44:16Z"
+      },
+      "id": "b320e846-326f-4ecd-9a50-3b3b82ddd95d"
+    },
+    {
+      "title": "In your eyes ",
+      "artist": "the weeknd",
+      "avatar": {
+        "url": "http://res.cloudinary.com/dqqtrkjtr/image/upload/v1693382880/lpx6llfqzwuetvhenfwl.jpg",
+        "original_filename": "The_Weeknd_-_After_Hours",
+        "format": "jpg"
+      },
+      "audio": {
+        "url": "http://res.cloudinary.com/dqqtrkjtr/video/upload/v1693598599/ljjl6b5gbj46wtrgxh0y.mp3",
+        "original_filename": "In Your Eyes",
+        "length": 237.557551,
+        "format": "mp3",
+        "upload_time": "2023-09-01T20:03:19Z"
+      },
+      "id": "9e361e48-eba3-4901-b8e8-ce3dc8434566"
+    },
+    {
+      "title": "save your tears",
+      "artist": "the weeknd",
+      "avatar": {
+        "url": "http://res.cloudinary.com/dqqtrkjtr/image/upload/v1693382915/oxpvxzildec5oolx09uh.jpg",
+        "original_filename": "The_Weeknd_-_After_Hours",
+        "format": "jpg"
+      },
+      "audio": {
+        "url": "http://res.cloudinary.com/dqqtrkjtr/video/upload/v1693666434/grxrtwktosy2vtkjrbrs.mp3",
+        "original_filename": "Save Your Tears",
+        "length": 215.666939,
+        "format": "mp3",
+        "upload_time": "2023-09-02T14:53:54Z"
+      },
+      "id": "324a4d6e-f0c4-439d-9fc3-745e8e25a61b"
+    },
+    {
+      "id": "c210a9d0-2c05-4a32-8790-cd6e78a0a809",
+      "title": "this",
+      "artist": "thae",
+      "avatar": {
+        "url": "http://res.cloudinary.com/dqqtrkjtr/image/upload/v1693668037/auhzrtamga6set9mew4u.jpg",
+        "original_filename": "Cover",
+        "format": "jpg"
+      },
+      "audio": {
+        "url": "http://res.cloudinary.com/dqqtrkjtr/video/upload/v1693668057/xpdqxnyzwccbd59ds3gs.mp3",
+        "original_filename": "04. Paul (Skit)",
+        "length": 35.294625,
+        "format": "mp3",
+        "upload_time": "2023-09-02T15:20:57Z"
+      }
+    }
+  ]
+}
